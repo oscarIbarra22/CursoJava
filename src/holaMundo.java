@@ -10,6 +10,7 @@ public class holaMundo {
 
         System.out.println(adios);
         System.out.println(hola);
+        System.out.println(number);
     }
 }
 
